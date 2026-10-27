@@ -22,3 +22,14 @@ env/
 scratch/
 .tempmediaStorage/
 *.log
+
+# ==============================================================================
+# Local Spanish Files (Preserved on Local PC, Excluded from English GitHub Repo)
+# ==============================================================================
+00_COCKPIT_VISUAL_CURSO.html
+00_GUIA_RAPIDA_VISUAL.md
+BLOQUE_1_FUNDAMENTOS_Y_MAQUINA/
+BLOQUE_2_LINEA_PROFUNDIDAD_Y_CYBER/
+BLOQUE_3_SOMBREADO_WHIP_Y_ENCAJE_GOTICO/
+BLOQUE_4_GRABADO_MEDIEVAL_Y_GRAN_ESCALA/
+docs/es/

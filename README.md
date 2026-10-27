@@ -4,7 +4,7 @@
 [![Platform: Web App](https://img.shields.io/badge/Platform-Interactive%20Cockpit%20(HTML5)-2563eb.svg)](https://itemprado.github.io/Alt-Ink-Academy/)
 [![Hardware: Poseidon Pen](https://img.shields.io/badge/Machine-Poseidon%20Pen%203.5mm-emerald.svg)](#-hardware-profile)
 [![Curriculum: 12 Flash Sheets](https://img.shields.io/badge/Flash%20Sheets-12%20Official%20A4%20PDFs-purple.svg)](#-official-flash-sheets-catalog-12-sheets)
-[![Language: English & Spanish](https://img.shields.io/badge/Language-English%20%7C%20Espa%C3%B1ol-blue.svg)](docs/es/)
+[![Language: 100% English](https://img.shields.io/badge/Language-100%25%20English-blue.svg)](#-curriculum-structure-from-zero-to-master)
 
 > **A structured, hands-on academy for mastering alternative tattoo styles:** Cybersigilism, Gothic Filigree, Medieval Heraldry & Armorial Blazons, Dark Baroque Lingerie Lace, Renaissance Woodcut Engraving, and Anime Fineline.
 > Designed for rotary pen machines, synthetic silicone practice skins, and thermal stencil copiers.
@@ -126,17 +126,22 @@ Alt-Ink-Academy/
 ├── LICENSE                              <-- MIT Open-Source License
 ├── .gitignore                           <-- Clean build & system filter
 │
-├── PLANTILLAS_COMPILADAS_A4/            <-- Official 1:1 A4 Practice PDFs (Sheets 00 to 11)
-├── assets/
-│   ├── references/                      <-- High-resolution reference photography
-│   │   ├── heraldry/                    <-- Temprado & Ordíaz crests, helmets, mantling
-│   │   ├── baroque_lace/                <-- Corset garters, acanthus caps, solar bursts
-│   │   └── macabre_engraving/           <-- Woodcut skeletons, cathedral sleeves
-│   ├── stencils/                        <-- Binarized, high-contrast line stencils (300 DPI)
-│   └── thumbnails/                      <-- High-res PNG previews for all sheets
+├── curriculum/                          <-- Comprehensive Technical Curriculum (English)
+│   ├── block_0_needle_gym/              <-- Hand speed, parallel lines & micro-motifs
+│   ├── block_1_machine_and_fineline/    <-- Machine setup, grip wrap & anime fineline
+│   ├── block_2_cybersigilism_and_filigree/ <-- Whip release spikes & seamless splices
+│   ├── block_3_whip_shading_and_greywash/  <-- 45° pendulum shading, greywash & corset lace
+│   ├── block_4_medieval_engraving/      <-- 60° cross-hatching, cathedral & body flow
+│   └── block_5_heraldry_and_dark_ornamental/ <-- Crests, helmets, lace & negative solar
 │
-└── docs/es/                             <-- Spanish Language Archive
-    └── 00_GUIA_RAPIDA_VISUAL.md         <-- Original Spanish Quick Guide & Block Manuals
+├── PLANTILLAS_COMPILADAS_A4/            <-- Official 1:1 A4 Practice PDFs (Sheets 00 to 11)
+└── assets/
+    ├── references/                      <-- High-resolution reference photography
+    │   ├── heraldry/                    <-- Temprado & Ordíaz crests, helmets, mantling
+    │   ├── baroque_lace/                <-- Corset garters, acanthus caps, solar bursts
+    │   └── macabre_engraving/           <-- Woodcut skeletons, cathedral sleeves
+    ├── stencils/                        <-- Binarized, high-contrast line stencils (300 DPI)
+    └── thumbnails/                      <-- High-res PNG previews for all sheets
 ```
 
 ---
